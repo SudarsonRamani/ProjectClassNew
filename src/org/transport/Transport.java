@@ -8,6 +8,7 @@ public class Transport {
 	
 	public void transportForm() {
 		System.out.println("Transport form are");
+		System.out.println("Sample Transport form are");
 	}
 
 	

@@ -7,6 +7,7 @@ public class Water {
 	}
 	public void ship() {
 		System.out.println("ship");
+		System.out.println("ships");
 	}
 
 }

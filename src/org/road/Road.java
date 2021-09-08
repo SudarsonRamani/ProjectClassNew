@@ -4,6 +4,7 @@ public class Road {
 	
 	public void bike() {
 		System.out.println("Bike");
+		System.out.println("Bikes");
 	}
 	public void cycle() {
 		System.out.println("Cycle");
